@@ -14,7 +14,7 @@ address = vision_service_address + "analyze"
 parameters = {"visualFeatures":"Description,Color", "language":"en"}
 
 # set the image path and open then read the file
-image_path = "./Users/Charles/Desktop/python folder/FancyRepo/ccapo-e1/jeep.png"
+image_path = "./Users/Charles/Desktop/python folder/FancyRepo/ccapo-e1/testFiles/jeep.png"
 image_data = open("jeep.png", "rb").read()
 
 # uses dotenv pkg to get the DATABASE key pair value from .env
