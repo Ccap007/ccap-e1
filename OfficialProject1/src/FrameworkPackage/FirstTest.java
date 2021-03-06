@@ -10,6 +10,7 @@ public class FirstTest {
 		// TEST CASES HERE, now include seelenium libraries?
 		System.setProperty("webdriver.chrome.driver", "C:\\ProgramData\\chocolatey\\bin\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
+		driver.quit();
 	}
 
 }
