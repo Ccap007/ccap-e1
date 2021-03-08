@@ -1,4 +1,4 @@
-# ccap-e1
+ccap-e1
 
-# unimportant, unordered 
-# various things that caught my eye
+unimportant, unordered 
+various things that caught my eye
