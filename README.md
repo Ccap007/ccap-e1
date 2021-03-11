@@ -1,4 +1,4 @@
 ccap-e1
 
-unimportant, unordered 
+unordered 
 various things that caught my eye
