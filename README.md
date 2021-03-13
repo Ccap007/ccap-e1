@@ -1,4 +1,9 @@
-- Official Project is a Java automation framework that I am playing around with.  Had to use Eclipse for free Selenium support -X-
-  - Right now the 2 classes only open a browser session 1 chrome and one ff
-    - I want to set the classes to run diff tests and keep browser config elsewhere
-- testFiles .py files are just for my own learning purposes, sampling different things
+- Official Project is a simple Java automation framework that I created  
+   - im forced to use Eclipse for free Selenium
+   - hamcrest and selenium dependencies added only
+     - Right now the 2 classes each only open a browser session one chrome and one ff
+     - I want to set the classes to run diff tests not browsers
+    
+    
+- testFiles' .py files are just for my own learning purposes, sampling different things
+      - hash table
